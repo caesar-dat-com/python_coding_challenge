@@ -1,0 +1,12 @@
+Case #1: 1234567890
+Case #2: 1975308642
+Case #3: Invalid value: "0"
+Case #4: Invalid value: "1111111111"
+Case #5: Invalid value: "2222222222"
+Case #6: Invalid value: 10**29
+Case #7: 33333333330
+Case #8: INSOMNIA
+Case #9: Invalid value: 10**30
+Case #10: 9999999999999999999999999999990
+Case #11: Invalid value: -1
+Case #12: Invalid value: 2*50-100
